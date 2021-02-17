@@ -1,0 +1,100 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+/* font-family: 'Playfair Display', serif;
+font-family: 'Ubuntu', sans-serif; */
+header{
+    width: 90%;
+    margin-left: 5%;
+    margin-top: 30px;
+    margin-right: 5%;
+}
+.logo{
+    width: 20%;
+    float: left;
+}
+nav{
+    width: 50%;
+    float: right;
+}
+nav ul{
+    
+list-style: none;
+    
+overflow: hidden;
+    
+float: right;
+}
+nav ul li{
+
+}
+nav ul li{
+
+float: left;
+
+margin-left: 50px;
+
+text-transform: uppercase;
+
+color: #626262;
+
+font-size: 16px;
+font-family: 'Playfair Display', serif;
+}
+.banner{
+    width: 90%;
+    margin-left: 5%;
+}
+.banner img{
+    
+width: 100%;
+}
+.photodairy{
+    width: 80%;
+    margin-left: 10%;
+}
+.photodairy h5{
+
+color: #b4ad9e;
+
+font-size: 14px;
+
+text-transform: uppercase;
+
+font-weight: 500;
+
+margin-top: 100px;
+
+margin-bottom: 20px;
+}
+.photodairy h1{
+
+color: #626262;
+
+text-transform: capitalize;
+
+margin-bottom: 20px;
+font-family: 'Playfair Display', serif;
+}
+.photodairy p{
+
+color: #626262;
+
+font-size: 16px;
+
+margin-bottom: 50px;
+font-family: 'Playfair Display', serif;
+}
+.photodairy h6{
+    
+color: #b4ad9e;
+    
+font-size: 14px;
+    
+text-transform: uppercase;
+    
+font-weight: 500;
+    
+margin-bottom: 83px;
+}
